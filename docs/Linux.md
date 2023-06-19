@@ -8,6 +8,8 @@
     <img src="https://s1.ax1x.com/2022/07/10/jsCAdH.jpg" width="260" height="260"></img>
 </p>
 
+
+
 ## 2 包含内容
 
 - 《鸟哥的Linux私房菜基础篇和服务器篇》
